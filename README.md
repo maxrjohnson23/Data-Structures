@@ -4,12 +4,12 @@
 
 ###  Common Big O Notation Complexities
    _Ordered by most to least performant_
-   * O(1)      Constant
-   * O(log n)  Logarithmic
-   * O(n)      Linear
-   * O(n^2)    Quadratic
-   * O(c^n)    Exponential
-   * O(n!)     Factorial
+   * O(1) - Constant
+   * O(log n) - Logarithmic
+   * O(n) - Linear
+   * O(n^2) - Quadratic
+   * O(c^n) - Exponential
+   * O(n!) - Factorial
 
 ### Data Structures
 
