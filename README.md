@@ -18,7 +18,7 @@
 
     2. Operations
 
-### Data Structure Performance
+### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
 | ------------| ------ | ------ | ------ | ------ |
 |  Stack      | O(n)   | O(n)   | O(1)   | O(1)   |
