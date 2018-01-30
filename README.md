@@ -17,12 +17,20 @@
     1. Attributes
        * Last-in-first-out (LIFO)
        * Accessing an element alters the data
-
     2. Operations
        * Push - O(1)
        * Pop - O(1)
        * Search - O(n)
        * Access - O(n)
+       
+2.  **Queues**
+    1. Attributes
+       * First-in-first-out (FIFO)
+    2. Operations
+       * Enqueue
+       * Dequeue
+       * Search
+       * Access
 
 ### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
