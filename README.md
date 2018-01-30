@@ -13,10 +13,16 @@
 
 ### Data Structures
 
-1. **Stack**
-    1. Properties
+1. **Stacks**
+    1. Attributes
+       * Last-in-first-out (LIFO)
+       * Accessing an element alters the data
 
     2. Operations
+       * Push - O(1)
+       * Pop - O(1)
+       * Search - O(n)
+       * Access - O(n)
 
 ### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
