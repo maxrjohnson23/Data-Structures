@@ -32,6 +32,18 @@
        * Search
        * Access
 
+2.  **Lists**
+    1. Attributes
+       * Flexible sizing
+       * Insertion/removal is more dynamic
+    2. Operations
+       * Add
+       * Remove
+       * Insert
+       * Remove at
+       * Find
+       * Get
+
 ### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
 | ------------| ------ | ------ | ------ | ------ |
