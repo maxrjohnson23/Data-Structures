@@ -54,6 +54,16 @@
        * Has Key/Value
        * Delete
        
+5.  **Trees**
+    1. Attributes
+       * Hierarchical in nature utilizing parent/child nodes
+       * Efficient for adding and finding data
+    2. Operations
+       * Add
+       * Get
+       * Delete
+       * Contains
+       
 ### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
 | ------------| ------ | ------ | ------ | ------ |
