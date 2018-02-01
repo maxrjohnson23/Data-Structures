@@ -32,7 +32,7 @@
        * Search
        * Access
 
-2.  **Lists**
+3.  **Lists**
     1. Attributes
        * Flexible sizing
        * Insertion/removal is more dynamic
@@ -43,7 +43,17 @@
        * Remove at
        * Find
        * Get
-
+       
+4.  **Hash Tables**
+    1. Attributes
+       * Utilizes has algorithm to generate the key
+       * Doesn't necessarily follow in/out ordering
+    2. Operations
+       * Get
+       * Put
+       * Has Key/Value
+       * Delete
+       
 ### Data Structure Performance (average case scenario)
 | Structure   | Access | Search | Insert | Delete |
 | ------------| ------ | ------ | ------ | ------ |
